@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VeryVhersty // @TheaVanherst
 - 👀 I’m a concept designer / developer
-- 🌱 I’m currently learning HTML / CSS / Javascript / Jquery
+- 🌱 Currently learning HTML / CSS / Javascript / Jquery
 - 📫 If you wish to contact me, you can contact me on twitter, @TheaVanherst.
 
 <!---
